@@ -1,3 +1,3 @@
-"# Robotics-Lab-1"/n 
-Ambarish Kowluri/n
+"# Robotics-Lab-1" 
+Ambarish Kowluri
 ID:704423441
