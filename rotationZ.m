@@ -1,3 +1,5 @@
+#Rotation Transformation Matrix about Z-axis
+
 function rotateZ=rotationZ(t)
     rotateZ=[[cos(t) -sin(t) 0 0];
               [sin(t) cos(t) 0 0]; 
